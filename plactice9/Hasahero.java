@@ -1,4 +1,4 @@
-package plactice9;
+﻿package plactice9;
 
 public class Hasahero {
 		String name = "yuusya";
